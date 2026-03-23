@@ -1,10 +1,13 @@
 [BAILEDEMASCARAS]
-Type = Pokémon
-Item = MEOWSCARADA
+Type = Pokemon
+Species = MEOWSCARADA
 Level = 36
 Gender = Female
 Shiny = False
 Ball = CHERISHBALL
+OT = Paldea
+OTID = 009
 GiftName = Baile de Máscaras
+Message = Você recebeu um presente especial!
 MetLocation = "Região de Paldea"
 FatefulEncounter = True
