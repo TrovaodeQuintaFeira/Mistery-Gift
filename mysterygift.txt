@@ -1,4 +1,4 @@
-[BAILEDEMASCARAS]
+[TOTODILE]
 Type = Pokemon
 Species = TOTODILE
 Level = 05
