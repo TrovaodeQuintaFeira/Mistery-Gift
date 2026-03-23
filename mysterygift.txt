@@ -11,4 +11,4 @@ AbilityIndex = 0
 Nature = ADAMANT
 Moves = ROCKSMASH,BRUTALSWING,FURYCUTTER,DETECT
 PokeBall = CHERISHBALL
-Message = Surpresa! Você resgatou o Farfetch'd /nde Galar especial de Quinta-Feira!
+Message = Cavaleiro das Quintas-Feiras!
