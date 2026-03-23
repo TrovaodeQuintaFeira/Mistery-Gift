@@ -1,5 +1,10 @@
-[PRESENTE_DE_CURA]
-Type = Item
-Item = POTION
-Count = 30
-Message = Você recebeu 30 Poções!
+[BAILEDEMASCARAS]
+Type = Pokémon
+Item = MEOWSCARADA
+Level = 36
+Gender = Female
+Shiny = False
+Ball = CHERISHBALL
+GiftName = Baile de Máscaras
+MetLocation = "Região de Paldea"
+FatefulEncounter = True
