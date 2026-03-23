@@ -1,13 +1,12 @@
 [BAILEDEMASCARAS]
 Type = Pokemon
-Species = MEOWSCARADA
-Level = 36
+Species = TOTODILE
+Level = 05
 Gender = Female
 Shiny = False
 Ball = CHERISHBALL
-OT = Paldea
+OT = Johto
 OTID = 009
-GiftName = Baile de Máscaras
-Message = Você recebeu um presente especial!
-MetLocation = "Região de Paldea"
+Message = LIMPA OS VIDROS E O FOGAO
+MetLocation = "Região de Johto"
 FatefulEncounter = True
