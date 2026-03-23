@@ -1,4 +1,5 @@
-[KITINICIAL]
+[PRESENTE_DE_CURA]
 Type = Item
-Item = POKEBALL
-Message = Você recebeu um Kit Surpresa!
+Item = POTION
+Count = 30
+Message = Você recebeu 30 Poções!
