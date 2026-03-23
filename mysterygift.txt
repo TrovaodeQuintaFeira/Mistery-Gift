@@ -1,14 +1,4 @@
-[EVENT_002]
-Type = Pokemon
-Species = FARFETCHD
-Form = 1
-Level = 20
-Shiny = true
-Item = LEEK
-OT = Quinta-Feira
-TrainerID = 013
-AbilityIndex = 0
-Nature = ADAMANT
-Moves = ROCKSMASH,BRUTALSWING,FURYCUTTER,DETECT
-PokeBall = CHERISHBALL
-Message = Cavaleiro das Quintas-Feiras!
+[KITINICIAL]
+Type = Item
+Item = POKEBALL
+Message = Você recebeu um Kit Surpresa!
